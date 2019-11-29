@@ -1,2 +1,3 @@
-# Primeiro_Sistema_Inteligente
-Sistema Inteligente para Automação
+# Sistema Inteligente 1.0
+
+Primeiro Sistema Inteligente para Automação, utilizando somente uma interface para a adição de Sensores
