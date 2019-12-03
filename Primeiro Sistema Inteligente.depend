@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1572752225 source:c:\users\maycol\desktop\programação\poo\primeiro sistema inteligente\sensores.cpp
+	<iostream>
+	"Sensores.h"
+	"Interface.h"
+
+1572752220 c:\users\maycol\desktop\programação\poo\primeiro sistema inteligente\sensores.h
+	<string>
+
+1574390779 source:c:\users\maycol\desktop\programação\poo\primeiro sistema inteligente\main.cpp
+	<iostream>
+	"Sensores.h"
+	"Interface.h"
+
+1574392925 c:\users\maycol\desktop\programação\poo\primeiro sistema inteligente\interface.h
+	<string>
+	<vector>
+	"Sensores.h"
+
+1574394042 source:c:\users\maycol\desktop\programação\poo\primeiro sistema inteligente\interface.cpp
+	<iostream>
+	"Interface.h"
+	"Sensores.h"
+
